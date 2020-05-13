@@ -46,6 +46,8 @@ After this, you should be able to run the project using Jupyter Notebook.
 ## Author
 
 * **Thomas Le Menestrel** 
+* **Raghav Dave** 
+* **Gabriel L** 
 
 ## License
 
