@@ -6,25 +6,11 @@ This project is a Machine Learning model to predict new coronavirus cases in the
 
 ## Dataset
 
-The dataset contains the data of 350+ real-estate properties across France. The features are:
-
-* the city where the property is located (Aix-En-Provence, Vincennes, Toulouse, Paris, Marseille, Manosque, Lyon, Issy-Les-Moulineaux, Gif Sur Yvette, Enghien Les Bains or Bourg La Reine)
-
-* the region (Paca, Ile de France or Sud Ouest)
-
-* the type (F1, F2, F3, F4, F5, F6, F7)
-
-* the area in square metres 
-
-* the rent per year in €  
-
-* the price of the property in €
+The dataset contains data from the NHS.
 
 ## Features importance
 
 ![Image of features importance](https://github.com/tlemenestrel/Coronavirus_Risk_Model/blob/master/Images/xgboost_features_importance.png)
-
-For this dataset, the two most dominant features are clearly the annual rent and the area of the property, which is expected for a regression model on real estate prices. The other features help to fine-tune the accuracy of the model.
 
 ## How to download a copy of the project
 
