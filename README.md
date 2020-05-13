@@ -2,7 +2,7 @@
 
 # Coronavirus_Cases_Prediction
 
-This project is a Machine Learning model to predict real estate prices of properties across France. It is a supervised regression task. The model used for this project is XGBoost.
+This project is a Machine Learning model to predict new coronavirus cases in the UK. It is a supervised regression task. The model used for this project is XGBoost.
 
 ## Dataset
 
