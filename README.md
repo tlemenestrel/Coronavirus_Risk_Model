@@ -1,6 +1,6 @@
-![Image of a scraper](https://github.com/tlemenestrel/Coronavirus_Risk_Model/blob/master/Images/coronavirus.jpg)
+![Image of Coronavirus](https://github.com/tlemenestrel/Coronavirus_Risk_Model/blob/master/Images/coronavirus.jpg)
 
-# Coronavirus_Cases_Prediction
+# Coronavirus Cases Prediction
 
 This project is a Machine Learning model to predict new coronavirus cases in the UK. It is a supervised regression task. The model used for this project is XGBoost.
 
